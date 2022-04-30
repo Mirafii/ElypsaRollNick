@@ -1,0 +1,11 @@
+name: CokyzAntoninx
+version: 1.0
+author: Mirafii
+main: mirafii.Main
+commands:
+  roll:
+    description: Roll a number
+  nick:
+    description: Set displayName for a player
+  fly:
+    description: Enable or disable fly mod
